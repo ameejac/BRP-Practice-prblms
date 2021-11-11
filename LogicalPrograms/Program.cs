@@ -9,7 +9,7 @@ namespace LogicalPrograms
         {
             Regexpattern obj = new Regexpattern();
             obj.validating();
-            
+            obj.Replacingwhitesapce();
         }
 
     }
